@@ -1,0 +1,16 @@
+{
+  "id": "1995428",
+  "name": "小说阅读器",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1191697",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    }
+  ]
+}
